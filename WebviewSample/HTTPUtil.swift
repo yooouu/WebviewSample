@@ -8,6 +8,6 @@
 
 class HTTPUtil {
     // 해당 IP로 변경해주시면 됩니다.
-    static let IP = "http://ipzza.exs-mobile.com:19280"
+    static let IP = "http://www.naver.com"
     static let MAIN = "/app/account/main"
 }
